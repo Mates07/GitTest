@@ -19,5 +19,5 @@ if (int.TryParse(e, out int f))
 string a = Console.ReadLine();
 for (int i = 0; i <= 4; i++)
 {
-    Console.WriteLine(a);
+    Console.WriteLine($"{i}. {a}");
 }
