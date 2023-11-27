@@ -24,3 +24,4 @@ for (int i = 0; i <= 4; i++)
 
 
 Console.WriteLine("I really really dont know");
+Console.WriteLine("Asi se zabiju");
